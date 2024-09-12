@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edmundxD
-- 👀 I’m interested in Web development,Cyber security,Game develpment
+- 👀 I’m interested in Web development,Cyber security and Game develpment
 - 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me edmundbri02@gmail.com
