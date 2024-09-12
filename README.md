@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me edmundbri02@gmail.com
-- 😄 Pronouns: HE/Him
-- ⚡ Fun fact: Today is the youngest you will ever be....
+  ⚡ Fun fact: Today is the youngest you will ever be....
 
 <!---
 edmundxD/edmundxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
